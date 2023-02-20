@@ -1,0 +1,22 @@
+.container {
+    background: #6f42c1;
+}
+
+.data-name {
+    display: flex;
+}
+
+.data-name h3 {
+    margin-right: 10px;
+}
+
+.live-post {
+    height: 700px;
+    overflow: scroll;
+    justify-content: space-between;
+}
+
+.modal-body {
+    height: 600px;
+    overflow-y: scroll;
+}
